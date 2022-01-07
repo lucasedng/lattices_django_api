@@ -89,11 +89,11 @@ WSGI_APPLICATION = 'api_lattices.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'lattices',
+        'NAME': os.getenv('_NAME'),
         'USER': os.getenv('_USER'),
         'PASSWORD': os.getenv('_PASSWORD'),
-        'HOST': '127.0.0.1',
-        'PORT': '5432',
+        'HOST': os.getenv('_HOST'),
+        'PORT': os.getenv('_PORT'),
     }
 }
 
