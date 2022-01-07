@@ -9,7 +9,7 @@ djangorestframework-simplejwt
 docopt
 idna
 pipreqs
-pkg_resources
+setuptools
 postgres
 psycopg2
 psycopg2-binary
