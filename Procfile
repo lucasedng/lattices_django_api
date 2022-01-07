@@ -1,2 +1,2 @@
 release: python manage.py migrate
-worker: python manage.py runserver
+web: gunicorn lattices.wsgi
