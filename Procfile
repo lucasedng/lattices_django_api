@@ -1,1 +1,1 @@
-web: gunicorn lattices.wsgi
+worker: python manage.py runserver
