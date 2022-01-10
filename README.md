@@ -26,7 +26,7 @@ A partir de um _nome_ ou _id_, você poderá obter as informações mais relevan
 
 | Método  | Rota | Descrição|
 | ------------- |-------------| ----------------|
-| GET     | `/lattices`  | [ROTA PÚBLICA] Consulta informações sobre todos os reticulados disponíveis. |
+| GET     | `/lattices`  | [ROTA PRIVADA] Consulta informações sobre todos os reticulados disponíveis. |
 | GET     | `/publiclattices/:lattice_id`  | [ROTA PÚBLICA] Consulta informações sobre  um determinado reticulado.|
 | GET     | `/lattices`  | [ROTA PRIVADA] Consulta informações sobre todos os reticulados disponíveis. |
 | POST     | `/lattices`  | [ROTA PRIVADA] Adiciona um novo reticulado ao banco de dados.|
