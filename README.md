@@ -36,7 +36,7 @@ A partir de um _nome_ ou _id_, você poderá obter as informações mais relevan
 
 ## Estrutura da resposta:
 
-´publiclattices/b8df165-9928-404f-8385-7914791efc49´
+`publiclattices/b8df165-9928-404f-8385-7914791efc49`
 
 ```json
 {
