@@ -67,7 +67,7 @@ Instale as dependências:
 
 `pip install -r requirements.txt`
 
-Deploy da aplicação:
+Coloque a aplicação no ar:
 
 `web gunicorn api_lattices.wsgi`
 
