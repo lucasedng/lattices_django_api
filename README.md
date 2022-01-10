@@ -4,7 +4,7 @@ Esta é uma API RESTful que está sendo desenvolvida em parceria ao Grupo de Est
 
 >1 - Estruturar os dados disponiveis em [A Catalogue of Lattices](https://www.math.rwth-aachen.de/~Gabriele.Nebe/LATTICES/);
 
->2 - Divulgar e compartilhar os resultados obtidos durante a pesquisa sobre Empacotamento de Regiões, Reticulados e 
+>2 - Divulgar e compartilhar os resultados obtidos durante a pesquisa sobre Empacotamento de Regiões, Reticulados e Códigos Corretores de Erros.
 
 ## Como acessar?
 
