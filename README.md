@@ -68,3 +68,11 @@ Instale as dependências:
 Rodando a aplicação localmente:
 
 `python manage.py runserver`
+
+___
+Para saber mais sobre reticulados: 
+
+
+[Lattice-based cryptography](https://en.wikipedia.org/wiki/Lattice-based_cryptography)
+
+[Introdução à Teoria dos Reticulados e suas Propriedades](https://repositorio.unifesp.br/bitstream/handle/11600/60730/Lucas_Eduardo_Trabalho_de_Graduacao_Final.pdf?sequence=7&isAllowed=y)
